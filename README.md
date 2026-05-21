@@ -32,10 +32,7 @@ class About extends Me {
   const myInfo = {
     "name"      : "Abdelrahman Ismaeil Tawfik",
     "role"      : "Frontend Web Developer | Interested in Mobile App Development (Flutter)",
-    "university": "King Salman International University",
     "email"     : "abdelrahman3ismael@gmail.com",
-    "location"  : "Mansoura, Egypt",
-    "phone"     : "01154078153",
   };
 
   const myTools = {
