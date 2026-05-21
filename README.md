@@ -30,22 +30,31 @@
 
 class About extends Me {
   const myInfo = {
-    "name"     : "Abdelrahman Ismaeil Tawfik",
-    "role"     : "CS Student | Mobile App Developer (Flutter)",
+    "name"      : "Abdelrahman Ismaeil Tawfik",
+    "role"      : "Frontend Web Developer | Interested in Mobile App Development (Flutter)",
     "university": "King Salman International University",
-    "email"    : "abdelrahman3ismael@gmail.com",
-    "location" : "Mansoura, Egypt",
+    "email"     : "abdelrahman3ismael@gmail.com",
+    "location"  : "Mansoura, Egypt",
+    "phone"     : "01154078153",
   };
 
   const myTools = {
     "ProgrammingLanguages" : { "C++", "Java", "Python", "JavaScript", "Dart" },
     "WebTechnologies"      : { "HTML5", "CSS3" },
-    "MobileDev"            : { "Flutter (learning)" },
+    "MobileDev"            : { "Flutter (learning)", "Dart" },
     "Database"             : { "MySQL", "SQL" },
     "CSFundamentals"       : { "OOP", "Data Structures", "Algorithms" },
     "Tools"                : { "Git", "GitHub" },
+    "SoftSkills"           : { "Problem Solving", "Team Collaboration", "Self-learning" },
     "Languages"            : { "Arabic (Native)", "English (Intermediate B1.2)" },
   };
+
+  const mySummary = """
+    Passionate about Mobile App Development using Flutter.
+    Seeking opportunities to apply academic knowledge through internships
+    and real-world projects, with a long-term goal of becoming a professional
+    software engineer specializing in mobile.
+  """;
 }
 ```
 
@@ -63,9 +72,38 @@ class About extends Me {
 
 </div>
 
+### 📌 Portfolio Website (2025)
+> A fully responsive personal portfolio website with a structured and scalable layout.  
+> Applied modern UI/UX principles to deliver a clean, professional, and user-friendly interface.  
+> Implemented modular sections (About, Skills, Certificates, Services, Contact) for clear content organization.  
+> Integrated external services and social platforms to enable interaction and professional networking.  
+> **Tech:** `HTML5` | `CSS3` | `JavaScript`
+
+---
+
+### 📌 Food-Lover Restaurant Website (2025)
+> A modern restaurant website showcasing food menu, offers, and gallery sections.  
+> Created a fully responsive layout optimized for mobile, tablet, and desktop screens.  
+> Designed intuitive navigation with smooth scrolling between page sections.  
+> Applied clean CSS styling with Flexbox for structured and maintainable layouts.  
+> Integrated contact form and icons to improve usability and user interaction.  
+> **Tech:** `HTML5` | `CSS3` | `JavaScript`
+
+---
+
+### 📌 FYLO Landing Page (2025)
+> A responsive two-column landing page using HTML5 and CSS3.  
+> Implemented clean layout using CSS Grid and Flexbox for modern UI design.  
+> Built interactive sections including hero, features, testimonial, and sign-up form.  
+> Ensured full responsiveness across desktop, tablet, and mobile devices.  
+> **Tech:** `HTML5` | `CSS3`
+
+---
+
 ### 📌 Student Management System (2025)
 > A console-based student records system built on a **singly linked list**.  
 > Supports dynamic insertion, deletion, and search operations.  
+> Demonstrates practical application of Data Structures concepts for managing real-world data efficiently.  
 > **Tech:** `C++` | `Data Structures`
 
 ---
@@ -79,13 +117,29 @@ class About extends Me {
 
 <div align="center">
 
+## 🎓 Education
+
+</div>
+
+### 🏫 Faculty of Computer Science and Engineering
+**King Salman International University** — *2024 – Present*
+
+<hr>
+
+<div align="center">
+
 ## 🏆 Certificates
 
+![Software Engineering](https://img.shields.io/badge/Introduction_to_Software_Engineering-purple?style=flat)
 ![Hardware & Software](https://img.shields.io/badge/Computer_Hardware_%26_Software-blue?style=flat)
+![HTML CSS](https://img.shields.io/badge/HTML_%26_CSS-orange?style=flat)
 ![AI](https://img.shields.io/badge/Introduction_to_AI-green?style=flat)
 ![English B1.2](https://img.shields.io/badge/English_Intermediate_B1.2-yellow?style=flat)
 ![Data Structures C](https://img.shields.io/badge/Data_Structures_in_C-orange?style=flat)
 ![OOP Java](https://img.shields.io/badge/OOP_with_Java-red?style=flat)
+![Networking](https://img.shields.io/badge/Networking_Basics-lightblue?style=flat)
+![Django](https://img.shields.io/badge/Django_Web_Framework-darkgreen?style=flat)
+![DB Java SQL](https://img.shields.io/badge/Database_Management_with_Java_%26_SQL-brown?style=flat)
 
 </div>
 
