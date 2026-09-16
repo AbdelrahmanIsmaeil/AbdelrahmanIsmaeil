@@ -1,129 +1,137 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdelrahmanIsmaeil&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ismaeil-85b722337/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AbdelrahmanIsmaeil)
 
-</div>
+</div> <hr>
 
-<hr>
+## 👨‍💻 About Me
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+I am a **Flutter Developer** and Computer Science student passionate about building cross-platform mobile applications with **Flutter and Dart**. I enjoy creating clean, responsive, and user-friendly interfaces while applying scalable architecture and reliable state management solutions.
+
+I am continuously improving my skills through practical projects, teamwork, and problem-solving, with a long-term goal of becoming a professional software engineer specializing in mobile application development.
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Cubit](https://img.shields.io/badge/Cubit%2FBLoC-6C63FF?style=flat)
+![Dio](https://img.shields.io/badge/Dio-REST%20API-FF6F00?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-294A3A?style=flat)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-```dart
-// about_me.dart
+## 🛠️ Technical Skills
 
-class About extends Me {
-  const myInfo = {
-    "name"      : "Abdelrahman Ismaeil Tawfik",
-    "role"      : "Frontend Web Developer | Interested in Mobile App Development (Flutter)",
-    "email"     : "abdelrahman3ismael@gmail.com",
-  };
+- **Mobile Development:** Flutter, Dart, Cubit/BLoC, REST APIs, Dio
 
-  const myTools = {
-    "ProgrammingLanguages" : { "C++", "Java", "Python", "JavaScript", "Dart" },
-    "WebTechnologies"      : { "HTML5", "CSS3" },
-    "MobileDev"            : { "Flutter (learning)", "Dart" },
-    "Database"             : { "MySQL", "SQL" },
-    "CSFundamentals"       : { "OOP", "Data Structures", "Algorithms" },
-    "Tools"                : { "Git", "GitHub" },
-    "SoftSkills"           : { "Problem Solving", "Team Collaboration", "Self-learning" },
-    "Languages"            : { "Arabic (Native)", "English (Intermediate B1.2)" },
-  };
+- **Architecture & Concepts:** Clean Architecture, Repository Pattern, OOP
 
-  const mySummary = """
-    Passionate about Mobile App Development using Flutter.
-    Seeking opportunities to apply academic knowledge through internships
-    and real-world projects, with a long-term goal of becoming a professional
-    software engineer specializing in mobile.
-  """;
-}
-```
+- **Programming Languages:** C++, Java, Python, JavaScript
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp; I'm currently learning **Flutter & Dart** for Mobile App Development.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20"/>&nbsp;&nbsp;&nbsp; I enjoy solving problems with **Data Structures & Algorithms**.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/>&nbsp;&nbsp; Ask me about **C++, OOP, or Mobile Development**.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp; Reach me at: **abdelrahman3ismael@gmail.com**
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp;&nbsp;&nbsp;&nbsp; Fun fact: Writing clean code on the first try is just a myth. ☕
+- **Web Technologies:** HTML5, CSS3
 
-<hr>
+- **Databases:** MySQL, SQL
 
-<div align="center">
+- **Tools & Version Control:** Git, GitHub, Android Studio, VS Code
+
+- **Computer Science:** Data Structures, Algorithms
+
+- **Soft Skills:** Problem Solving, Team Collaboration, Self-Learning
+
+- **Languages:** Arabic (Native), English (Intermediate – B1.2)
 
 ## 🚀 Projects
 
-</div>
+### 🛍️ LAMSA – Smart Accessories E-commerce App
 
-### 📌 Portfolio Website (2025)
-> A fully responsive personal portfolio website with a structured and scalable layout.  
-> Applied modern UI/UX principles to deliver a clean, professional, and user-friendly interface.  
-> Implemented modular sections (About, Skills, Certificates, Services, Contact) for clear content organization.  
-> Integrated external services and social platforms to enable interaction and professional networking.  
-> **Tech:** `HTML5` | `CSS3` | `JavaScript`
+**Team Project | Flutter | Dart | Clean Architecture | Cubit/BLoC | REST API | Dio**
 
----
+> Co-developed a cross-platform e-commerce mobile application for smart accessories as part of a team project during the NTI Flutter Mobile Development Track.
+Implemented product browsing, categories, search, product details, shopping cart, checkout flow, reviews, authentication, and profile management.
+Applied Clean Architecture, Repository Pattern, and Cubit for scalable code organization and reactive state management.
+Integrated RESTful APIs using Dio and handled loading, success, failure, and empty states.
 
-### 📌 Food-Lover Restaurant Website (2025)
-> A modern restaurant website showcasing food menu, offers, and gallery sections.  
-> Created a fully responsive layout optimized for mobile, tablet, and desktop screens.  
-> Designed intuitive navigation with smooth scrolling between page sections.  
-> Applied clean CSS styling with Flexbox for structured and maintainable layouts.  
-> Integrated contact form and icons to improve usability and user interaction.  
-> **Tech:** `HTML5` | `CSS3` | `JavaScript`
+**GitHub:** [LAMSA App](https://github.com/hatemrihan/NTI---Finall)
 
 ---
 
-### 📌 FYLO Landing Page (2025)
-> A responsive two-column landing page using HTML5 and CSS3.  
-> Implemented clean layout using CSS Grid and Flexbox for modern UI design.  
-> Built interactive sections including hero, features, testimonial, and sign-up form.  
-> Ensured full responsiveness across desktop, tablet, and mobile devices.  
-> **Tech:** `HTML5` | `CSS3`
+### 📱 OTLOP – Flutter Mobile Application
+
+**Team Project | Flutter | Dart | Cubit/BLoC | Dio | REST API**
+
+> Co-developed a Flutter-based mobile application using Dart, Cubit/BLoC state management, and Dio for REST API integration.
+Organized the project using feature-based folders, reusable custom widgets, SVG assets, and consistent UI styling.
+Applied practical Flutter development concepts including API communication, state handling, and responsive interface implementation.
+
+**GitHub:** [OTLOP](https://github.com/AbdelrahmanIsmaeil/OTLOP)
 
 ---
 
-### 📌 Student Management System (2025)
-> A console-based student records system built on a **singly linked list**.  
-> Supports dynamic insertion, deletion, and search operations.  
-> Demonstrates practical application of Data Structures concepts for managing real-world data efficiently.  
-> **Tech:** `C++` | `Data Structures`
+### 🌐 Portfolio Website
+
+**HTML5 | CSS3 | JavaScript**
+
+> Built a fully responsive personal portfolio website with a structured and scalable layout.
+Implemented modular sections including About, Skills, Certificates, Services, and Contact.
+Applied modern UI/UX principles and integrated external services and social platforms for professional networking.
 
 ---
 
-### 📌 Virtual Smart Campus Management System (2024)
-> A complete **OOP solution** for managing university operations — person management (students, instructors, staff), course administration, resource scheduling, and notifications.  
-> Designed using **inheritance, polymorphism, and encapsulation**.  
-> **Tech:** `C++` | `OOP`
+### 🍽️ Food-Lover Restaurant Website
+
+**HTML5 | CSS3 | JavaScript**
+
+> Developed a responsive restaurant website showcasing the food menu, offers, and gallery sections.
+Created intuitive navigation with smooth scrolling, clean CSS styling, Flexbox layouts, contact form, and interactive icons.
+
+---
+
+### 📄 FYLO Landing Page
+
+**HTML5 | CSS3**
+
+> Built a responsive two-column landing page using CSS Grid and Flexbox.
+Implemented hero, features, testimonial, and sign-up sections with responsive layouts for desktop, tablet, and mobile devices.
+
+---
+
+### 🎓 Student Management System
+
+**C++ | Data Structures**
+
+> Developed a console-based student records system using a singly linked list.
+Implemented dynamic insertion, deletion, and search operations to demonstrate practical data-structure applications.
+
+---
+
+### 🏫 Virtual Smart Campus Management System
+
+**C++ | OOP**
+
+> Designed an object-oriented system for managing university operations, including students, instructors, staff, courses, resource scheduling, and notifications.
+Applied inheritance, polymorphism, encapsulation, and other core OOP principles.
 
 <hr>
-
-<div align="center">
 
 ## 🎓 Education
 
-</div>
+### Faculty of Computer Science and Engineering
 
-### 🏫 Faculty of Computer Science and Engineering
 **King Salman International University** — *2024 – Present*
 
 <hr>
-
-<div align="center">
 
 ## 🏆 Certificates
 
@@ -138,11 +146,7 @@ class About extends Me {
 ![Django](https://img.shields.io/badge/Django_Web_Framework-darkgreen?style=flat)
 ![DB Java SQL](https://img.shields.io/badge/Database_Management_with_Java_%26_SQL-brown?style=flat)
 
-</div>
-
-<hr>
-
-<div align="center">
+<hr> <div align="center">
 
 **Code Cycle** 🔄
 
